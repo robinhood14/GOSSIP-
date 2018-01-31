@@ -1,4 +1,4 @@
-# Créez une plateforme de Gossip avec [alt text][logo]
+# Créez une plateforme de Gossip avec <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" target="_blank"> </p>
 
 Création d'une plate-forme Gossips avec 
 
@@ -10,4 +10,3 @@ Le projet ici est la réalisation d'une plate-forme de potins.
 
 Tu peux accèder à ma super application de générateur de potins ici :point_right: https://stormy-ocean-10372.herokuapp.com 
  
-[logo]: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png"
