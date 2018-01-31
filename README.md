@@ -1,4 +1,4 @@
-GOSSIP THP [logo]
+# Créez une plateforme de Gossip avec [alt text][logo]
 
 Création d'une plate-forme Gossips avec 
 
