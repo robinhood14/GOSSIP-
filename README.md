@@ -2,7 +2,7 @@
 
 # Créez une plateforme de Gossip ! 
 
-Création d'une plate-forme Gossips avec 
+Création d'une plate-forme Gossips avec Ruby On Rails. Utilisation de la méthode CRUD.
 
 Le projet ici est la réalisation d'une plate-forme de potins. 
 - L'idée est que n'importe quel utilisateur peut y rentrer des "gossips". 
