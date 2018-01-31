@@ -1,0 +1,16 @@
+<h1> BIENVENUE SUR GOSSIP THP </h1>
+
+<p> Balance ton porc, ton pote, ton voisin, ta tante, ta soeur. </p>
+
+
+<%= form_for @gossip, url: {action: "create"}, html: {class: "nifty_form"} do |f| %>
+
+ <p> <%= label_tag 'anonymous_author', " Auteur "%>
+  <%= f.text_field :anonymous_author %> <p>
+
+<p><%= label_tag 'content', "Ton potin "%>
+  <%= f.text_area :content %> </p>
+
+  <%= f.submit "Create" %>
+
+<% end %>

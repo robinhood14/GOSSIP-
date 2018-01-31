@@ -1,0 +1,23 @@
+<h1>Edit gossip</h1>
+ 
+<%= form_with(model: @gossip, local: true) do |form| %>
+ 
+  <p>
+    <%= form.label :anonymous_author %>
+    <%= form.text_field :anonymous_author%>
+  </p>
+ 
+  <p>
+    <%= form.label :content, 'Nouveau potin' %> 
+   <%= form.text_area :content %>
+  </p>
+ 
+  <p>
+    <%= form.submit %>
+  </p>
+
+<% end %>
+ 
+ <%= link_to 'Détruire', @gossip, method: :delete %> 
+
+ <%= link_to 'Index ', gossips_path %>

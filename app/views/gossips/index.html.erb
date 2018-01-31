@@ -1,0 +1,23 @@
+<h1>BIENVENUE SUR GOSSIP </h1>
+
+ <%= link_to 'Balance ton potin ici !', new_gossip_path %>
+
+ <h2>Listing Gossips</h2>
+<table>
+ <tr>
+   <th> Auteur</th>
+   <th>Gossip</th>
+   <th colspan="3"></th>
+ </tr>
+ <% @gossips.each do |gossip| %>
+   <tr>
+     <td><%= gossip.anonymous_author %></td>
+     <td><%= gossip.content %></td>
+     <td><%= link_to 'voir', gossip_path(gossip) %></td>
+     <td><%= link_to 'Edit', edit_gossip_path(gossip) %></td>
+     <td><%= link_to 'Détruire', gossip_path(gossip),
+             method: :delete,
+             data: { confirm: 'Are you sure?' } %></td>
+   </tr>
+ <% end %>
+</table>
