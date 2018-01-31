@@ -1,3 +1,3 @@
 # README
 
-Tu peux accèder à ma super application de générateur de rumeur ici :point_right: https://stormy-ocean-10372.herokuapp.com 
+Tu peux accèder à ma super application de générateur de potins ici :point_right: https://stormy-ocean-10372.herokuapp.com 
