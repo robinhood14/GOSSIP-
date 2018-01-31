@@ -1,4 +1,6 @@
-# Créez une plateforme de Gossip avec <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" target="_blank"> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" target="_blank"> </p>
+
+# Créez une plateforme de Gossip ! 
 
 Création d'une plate-forme Gossips avec 
 
