@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" target="_blank"> </p>
 
-# Création d(une plateforme de Gossip ! 
+# Création d'une plateforme de Gossip ! 
 
 Le projet ici est la réalisation d'une plate-forme de potins grâce à Ruby On Rails et en utilisant la méthode CRUD.
 
